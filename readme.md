@@ -1,42 +1,30 @@
+#Shopware 5 Community Workflow
 
-# Table of contents
+## Table of contents
 1. [Introduction](#introduction)
-2. [status-quo](#statusquo)
-3. [local development](#local-development)
-    1. [Homebrew](#homebrew)
-    2. [Docker](#docker)
-    3. [Dockerware](#dockware)
-    4. [Homestead Laravel](#homestead-laravel)
-    5. [Vagrant](#vagrant)
-4. [IDE / Editor](#codingeditor)
-    1. [PHPStorm](#phpstorm)
-    2. [Atom](#atom)
-    3. [Sublime](#sublime)
-    4. [Visual Studio Code](#vscode)
-4. [Code Collaboration Plattform](#ccplattform)
-    1. [Github](#github)
-    2. [Bitbucket](#bitbucket)
-    3. [Gitlab](#gitlab)
+2. [Status-quo](#statusquo)
+3. [Workflows](#community-workflows)
+    1. [Memoflow](./workflows/memoflow.md)
+4. [Glossar & Documentation](#docs-glossar)
+    1. [Local development](./docs/local-development.md)
+    2. [IDE / Editor](./docs/ide-editor.md)
+    3. [Code Collaboration Plattform](#ccplattform)
 
 ## Introduction <a name="introduction"></a>
-This repository is about a working Shopware 5 development & deployment workflow.
-Feel free to contribute, share your knowledge, your tools or add questions in the issue tracker.
+This repository is about working Shopware 5 development & deployment workflows focused on an 
+example project with experience from our daily business. Those workflows show one possible way from 
+Shopware 5 installation over testing until deployment to live environment. Since this is a growing community project, 
+feel free to contribute, share your knowledge, your tools or add questions in the issue tracker.
 
-The workflow is based on the following criteria:
-- development of full Shopware 5 PE project for a client
-- working as a team on one project
-- local development
-- local testing
-- deployment
-- live / stage environnment
-- no CI/CD
+Do you know a better workflow? Let the community know!
+
+## Workflows <a name="#community-workflows"></a>
+
+### Memoflow <a name="memoflow"></a>
 
 
 ## Status-quo <a name="statusquo"></a>
-The first paragraph text
+Scusi babedibubi aullum deliquit, ponderibus modulisque suis ratio utitur.
 
-## Another paragraph <a name="local-development"></a>
+## Glossar & Documentation <a name="docs-glossar"></a>
 Paullum deliquit, ponderibus modulisque suis ratio utitur. Excepteur sint obcaecat cupiditat non proident culpa. Cum sociis natoque penatibus et magnis dis parturient.
-
-## homebrew <a name="homebrew"></a>
-If you work with OSX you will 
