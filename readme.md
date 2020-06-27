@@ -1,4 +1,4 @@
-#Shopware 5 Community Workflow
+# Shopware 5 Community Workflow
 
 ## Table of contents
 1. [Introduction](#introduction)
@@ -18,9 +18,9 @@ feel free to contribute, share your knowledge, your tools or add questions in th
 
 Do you know a better workflow? Let the community know!
 
-## Workflows <a name="#community-workflows"></a>
+## Workflows <a name="community-workflows"></a>
 
-### Memoflow <a name="memoflow"></a>
+### [Memoflow](./workflows/memoflow.md) <a name="memoflow"></a>
 
 
 ## Status-quo <a name="statusquo"></a>
