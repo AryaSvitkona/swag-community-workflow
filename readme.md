@@ -1,4 +1,4 @@
-# Shopware 5 Community Workflow
+# Shopware 5 Community Workflows
 
 ## Table of contents
 1. [Introduction](#introduction)
@@ -12,7 +12,7 @@
 
 ## Introduction <a name="introduction"></a>
 This repository is about working Shopware 5 development & deployment workflows focused on an 
-example project with experience from our daily business. Those workflows show one possible way from 
+example project with experience from our daily business. Those workflows provide one possible way from 
 Shopware 5 installation over testing until deployment to live environment. Since this is a growing community project, 
 feel free to contribute, share your knowledge, your tools or add questions in the issue tracker.
 
