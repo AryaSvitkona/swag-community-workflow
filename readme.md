@@ -19,17 +19,16 @@
     3. [Gitlab](#gitlab)
 
 ## Introduction <a name="introduction"></a>
-I was looking for a Shopware 5 development & deployment workflow since I begun working with Shopware.
-So I started this repository to provide information, questions, links, tools etc. about a working development & deplyoment
-workflow which works for me. Although I'd like to mention other tools and solutions as well. Feel free to contribute, share your knowledge, your tools or add questions in the issue tracker.
+This repository is about a working Shopware 5 development & deployment workflow.
+Feel free to contribute, share your knowledge, your tools or add questions in the issue tracker.
 
-This workflow is focused on following thoughts:
+The workflow is based on the following criteria:
 - development of full Shopware 5 PE project for a client
+- working as a team on one project
 - local development
 - local testing
-- working as a team on one project
-- live / stage environnment
 - deployment
+- live / stage environnment
 - no CI/CD
 
 
