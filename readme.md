@@ -6,7 +6,7 @@
     1. [Homebrew](#homebrew)
     2. [Docker](#docker)
     3. [Dockerware](#dockware)
-    4. [Homestead Laravel](#homestead laravel)
+    4. [Homestead Laravel](#homestead-laravel)
     5. [Vagrant](#vagrant)
 4. [IDE / Editor](#codingeditor)
     1. [PHPStorm](#phpstorm)
@@ -33,3 +33,11 @@ This workflow is focused on following thoughts:
 - no CI/CD
 
 
+## Status-quo <a name="statusquo"></a>
+The first paragraph text
+
+## Another paragraph <a name="local-development"></a>
+Paullum deliquit, ponderibus modulisque suis ratio utitur. Excepteur sint obcaecat cupiditat non proident culpa. Cum sociis natoque penatibus et magnis dis parturient.
+
+## homebrew <a name="homebrew"></a>
+If you work with OSX you will 
